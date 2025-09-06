@@ -31,7 +31,7 @@ Este proyecto y todos los participantes se rigen por un código de conducta. Al 
 1. **Fork el repositorio** en GitHub
 2. **Clona tu fork** localmente:
    ```bash
-   git clone https://github.com/tu-usuario/steam-game-meta.git
+   git clone https://github.com/jarrioja/steam-game-meta.git
    cd steam-game-meta
    ```
 3. **Configura un entorno de WordPress** para testing
@@ -247,7 +247,7 @@ Si tienes preguntas sobre cómo contribuir:
 1. Revisa la documentación existente
 2. Busca en los issues cerrados
 3. Abre un nuevo issue con la etiqueta `question`
-4. Contacta a los maintainers
+4. Contacta a los maintainers en [jarrioja/steam-game-meta](https://github.com/jarrioja/steam-game-meta)
 
 ---
 

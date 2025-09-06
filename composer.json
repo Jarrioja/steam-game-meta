@@ -7,7 +7,7 @@
     {
       "name": "Jesús Arrioja",
       "email": "tu-email@ejemplo.com",
-      "homepage": "https://github.com/tu-usuario"
+            "homepage": "https://github.com/jarrioja"
     }
   ],
   "keywords": [
@@ -18,11 +18,11 @@
     "metadata",
     "api"
   ],
-  "homepage": "https://github.com/tu-usuario/steam-game-meta",
-  "support": {
-    "issues": "https://github.com/tu-usuario/steam-game-meta/issues",
-    "source": "https://github.com/tu-usuario/steam-game-meta"
-  },
+    "homepage": "https://github.com/jarrioja/steam-game-meta",
+    "support": {
+        "issues": "https://github.com/jarrioja/steam-game-meta/issues",
+        "source": "https://github.com/jarrioja/steam-game-meta"
+    },
   "require": {
     "php": ">=7.4"
   },
