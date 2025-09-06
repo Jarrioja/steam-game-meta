@@ -1,0 +1,63 @@
+{
+  "name": "jesus-arrioja/steam-game-meta",
+  "description": "WordPress plugin that allows searching Steam games and associating them with posts",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jesús Arrioja",
+      "email": "tu-email@ejemplo.com",
+      "homepage": "https://github.com/tu-usuario"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "steam",
+    "games",
+    "metadata",
+    "api"
+  ],
+  "homepage": "https://github.com/tu-usuario/steam-game-meta",
+  "support": {
+    "issues": "https://github.com/tu-usuario/steam-game-meta/issues",
+    "source": "https://github.com/tu-usuario/steam-game-meta"
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0",
+    "wp-coding-standards/wpcs": "^2.3",
+    "phpcompatibility/phpcompatibility-wp": "^2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "SteamGameMeta\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "SteamGameMeta\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit",
+    "phpcs": "phpcs --standard=WordPress .",
+    "phpcbf": "phpcbf --standard=WordPress .",
+    "lint": [
+      "@phpcs"
+    ],
+    "fix": [
+      "@phpcbf"
+    ]
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  },
+  "extra": {
+    "wordpress-install-dir": "wp"
+  }
+}
