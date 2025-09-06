@@ -131,7 +131,6 @@ Este plugin está licenciado bajo la Licencia MIT. Ver [LICENSE](LICENSE) para m
 **Jesús Arrioja**
 
 - GitHub: [@jarrioja](https://github.com/jarrioja)
-- Email: tu-email@ejemplo.com
 
 ## 🙏 Agradecimientos
 
@@ -139,14 +138,5 @@ Este plugin está licenciado bajo la Licencia MIT. Ver [LICENSE](LICENSE) para m
 - La comunidad de WordPress por las mejores prácticas
 - Todos los contribuidores del proyecto
 
-## 📞 Soporte
-
-Si encuentras algún problema o tienes sugerencias:
-
-1. Revisa la sección de [Solución de problemas](#-solución-de-problemas)
-2. Busca en los [Issues existentes](https://github.com/jarrioja/steam-game-meta/issues)
-3. Crea un nuevo issue si no encuentras una solución
-
----
 
 ⭐ Si este plugin te resulta útil, ¡considera darle una estrella en GitHub!
