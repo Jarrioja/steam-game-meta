@@ -138,5 +138,4 @@ Este plugin está licenciado bajo la Licencia MIT. Ver [LICENSE](LICENSE) para m
 - La comunidad de WordPress por las mejores prácticas
 - Todos los contribuidores del proyecto
 
-
 ⭐ Si este plugin te resulta útil, ¡considera darle una estrella en GitHub!
